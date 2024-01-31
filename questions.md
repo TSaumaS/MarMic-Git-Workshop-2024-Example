@@ -1,5 +1,7 @@
 # Questions
 
+Do you use TOR :D?
+
 What is the difference bet commit and branch 
 
 How do we work together?
